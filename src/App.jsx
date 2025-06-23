@@ -1,11 +1,11 @@
 import React from 'react';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import './components/hero.css'; // Leave this line in
-import Socialproof from './components/Socialproof';
-import Testimonial from './components/Testimonial';
-import Faq from './components/Faq';
-import Footer from './components/Footer';
+import Navbar from './components/navbar';
+import Hero from './components/hero';
+import './components/hero.css'; // leave this if needed
+import Socialproof from './components/socialproof';
+import Testimonial from './components/testimonial';
+import Faq from './components/faq';
+import Footer from './components/footer';
 
 function App() {
   return (
