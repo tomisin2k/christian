@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './Hero.css';
+import './hero.css'; // Changed from './Hero.css' to './hero.css'
 
 const Hero = () => {
   // State to control which scene is currently displayed
