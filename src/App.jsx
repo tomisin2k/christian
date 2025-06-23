@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './components/navbar';
-import Hero from './components/hero.css';
+import Hero from './components/hero';
 import Socialproof from './components/socialproof';
 import Testimonial from './components/testimonial';
 import Faq from './components/faq';
